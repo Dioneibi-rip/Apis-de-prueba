@@ -14,10 +14,10 @@ export default async function handler(req, res) {
     const info = await ytdl.getInfo(url);
     const title = info.videoDetails.title;
 
-    // link de descarga en tu mismo dominio
+    // tu mismo dominio va a servir este endpoint
     const downloadUrl = `/api/stream?url=${encodeURIComponent(url)}`;
 
-    res.json({
+    res.status(200).json({
       status: true,
       title,
       format: "mp3",
