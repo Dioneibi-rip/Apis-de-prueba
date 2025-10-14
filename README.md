@@ -88,7 +88,7 @@ npm start
 
 ---
 
-### ☁️ Instalación en **Cloud Shell**
+## <img src="https://files.catbox.moe/cylcxd.gif" alt="Instalacion" width="40" height="40"> Instalación en [termux](https://f-droid.org/repo/com.termux_118.apk)
 
 <details>
   <summary><b>🚀 Ver pasos para Cloud Shell</b></summary>
