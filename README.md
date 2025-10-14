@@ -141,7 +141,7 @@ npm start
 🪻 **`Ruby 24/7 (TERMUX)`**
 
 <details>
-<summary><b>✨ VER COMANDOS</b></summary>
+<summary><b>🐝 VER COMANDOS</b></summary>
 
 ```bash
 termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
@@ -154,7 +154,7 @@ termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 > Comandos para actualizar a Ruby-Bot de forma automática
 
 <details>
-<summary><b>✨ VER COMANDOS</b></summary>
+<summary><b>🫛 VER COMANDOS</b></summary>
 
 ```bash
 grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/Dioneibi-rip/Ruby-Hoshino-Bot/master/update.sh | bash
