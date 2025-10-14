@@ -88,7 +88,7 @@ npm start
 
 ---
 
-## <img src="https://files.catbox.moe/rs536w.gif" alt="Instalacion" width="40" height="40"> Instalación en [termux](https://f-droid.org/repo/com.termux_118.apk)
+## <img src="https://files.catbox.moe/rs536w.gif" alt="Instalacion" width="40" height="40"> Instalación en [Cloud Shell](https://f-droid.org/repo/com.termux_118.apk)
 
 <details>
   <summary><b>🚀 Ver pasos para Cloud Shell</b></summary>
