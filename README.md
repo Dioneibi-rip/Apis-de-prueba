@@ -20,7 +20,12 @@
 ---
 
 
-> **`AVISO IMPORTANTE`**: Este proyecto fue creado con fines educativos y de desarrollo. ¡Úsalo con responsabilidad y diviértete!
+> [!WARNING]
+> **AVISO IMPORTANTE**  
+> Este proyecto fue creado con fines **educativos y de desarrollo**.  
+> Es una versión **personalizada del bot original [Yuki Wa Bot](https://github.com/YukiBot)**, modificada y mejorada por **[Dioneibi-rip](https://github.com/Dioneibi-rip)**.  
+> ¡Úsalo con responsabilidad y diviértete! 💖
+
 
 > **`Ruby Hoshino - Bot`** es un bot de WhatsApp versátil y lleno de funciones, diseñado para mejorar la experiencia en tus chats y grupos. Desde la gestión automática hasta el entretenimiento, Ruby lo tiene todo.
 
