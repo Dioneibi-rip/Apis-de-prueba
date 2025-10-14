@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F75389&center=true&vCenter=true&width=500&lines=✨+Bienvenido+al+repositorio+oficial+✨;Un+bot+multifuncional+para+WhatsApp;Creado+con+Node.js+y+pasión;¡Gracias+por+estar+aquí!+💖" alt="Typing SVG">
+  </a>
+</p>
+
+
 <div align="center">
   <img src="https://i.imgur.com/u4sYHGA.png" alt="Ruby Hoshino Banner" width="700"/>
 </div>
