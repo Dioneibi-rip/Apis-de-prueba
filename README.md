@@ -86,7 +86,7 @@ npm start
 
 ---
 
-<details\>
+</details>
 \<summary\>\<strong\>☁️ Comandos para Cloud Shell / VPS\</strong\>\</summary\>
 
 ```bash
