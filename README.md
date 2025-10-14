@@ -1,50 +1,25 @@
-<!-- 🌟 Animación de bienvenida con texto dorado -->
 <p align="center">
-  <a href="https://git.io/typing-svg" target="_blank" rel="noopener">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=✨+Bienvenido+al+Repositorio+✨;🌸+Megumin+-+Bot+-+MD+🌸;🔥+Creado+por+David+Chian+🔥;💥+BOOM!!!+💥;💖+Gracias+por+preferirnos+💖"
-      alt="Typing SVG"
-    />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&lines=Bienvenido+al+Repositorio;Megumin+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+David+Chian;💥+BOOM!!!;🔥" alt="Typing SVG">
   </a>
 </p>
 
-<!-- 🌸 Imagen principal centrada -->
 <p align="center">
-  <img src="https://telegra.ph/file/b8170842d84523340c674.jpg" alt="Megumin" width="500" style="border-radius: 20px;">
+  <img src="https://telegra.ph/file/b8170842d84523340c674.jpg" alt="Megumin" width="350">
 </p>
 
 ---
 
-<!-- 🌟 Badges y enlaces -->
 <p align="center">
-  <a href="https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot">
-    <img src="https://img.shields.io/github/stars/Dioneibi-rip/Ruby-Hoshino-Bot?style=for-the-badge&logo=github&color=E91E63" alt="GitHub stars">
-  </a>
-  <a href="https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot/network/members">
-    <img src="https://img.shields.io/github/forks/Dioneibi-rip/Ruby-Hoshino-Bot?style=for-the-badge&logo=github&color=9C27B0" alt="GitHub forks">
-  </a>
-  <img src="https://img.shields.io/github/license/Dioneibi-rip/Ruby-Hoshino-Bot?style=for-the-badge&color=2196F3" alt="License">
-  <a href="https://api.whatsapp.com/send/?phone=18294868853&text=Hola,+vengo+de+GitHub+y+necesito+soporte+con+Ruby+Bot&type=phone_number&app_absent=0">
-    <img src="https://img.shields.io/badge/WhatsApp-Soporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Support WhatsApp">
-  </a>
+    <a href="https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot"><img src="https://img.shields.io/github/stars/Dioneibi-rip/Ruby-Hoshino-Bot?style=for-the-badge&logo=github&color=E91E63" alt="GitHub stars"></a>
+    <a href="https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot/network/members"><img src="https://img.shields.io/github/forks/Dioneibi-rip/Ruby-Hoshino-Bot?style=for-the-badge&logo=github&color=9C27B0" alt="GitHub forks"></a>
+    <img src="https://img.shields.io/github/license/Dioneibi-rip/Ruby-Hoshino-Bot?style=for-the-badge&color=2196F3" alt="License">
+    <a href="https://api.whatsapp.com/send/?phone=18294868853&text=Hola,+vengo+de+GitHub+y+necesito+soporte+con+Ruby+Bot&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-Soporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Support WhatsApp"></a>
 </p>
 
-<!-- 🌸 GIF decorativo inferior -->
 <div align="center">
   <img src="https://files.catbox.moe/atnv7f.gif" alt="Ruby Hoshino Bot Preview" width="350"/>
 </div>
-
----
-
-<!-- 🌟 Animación inferior con texto dorado -->
-<p align="center">
-  <a href="https://git.io/typing-svg" target="_blank" rel="noopener">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=🌟+Megumin+Bot+MD+🌟;✨+Un+bot+multifuncional+para+WhatsApp+✨;💖+Creado+con+pasión+y+magia+💖;🔥+¡Disfruta+la+experiencia!+🔥"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
 
 ---
 
