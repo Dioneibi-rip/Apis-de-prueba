@@ -23,7 +23,7 @@
 > [!WARNING]
 > **AVISO IMPORTANTE**  
 > Este proyecto fue creado con fines **educativos y de desarrollo**.  
-> Es una versión **personalizada del bot original [Yuki Wa Bot](https://github.com/YukiBot)**, modificada y mejorada por **[Dioneibi-rip](https://github.com/Dioneibi-rip)**.  
+> Es una versión **personalizada del bot original [Yuki Wa Bot](https://github.com/YukiBot)**, Modificada por **[Dioneibi-rip](https://github.com/Dioneibi-rip)**.  
 > ¡Úsalo con responsabilidad y diviértete! 💖
 
 
