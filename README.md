@@ -54,33 +54,37 @@ Sigue estos pasos para darle vida a Ruby en tu plataforma preferida.
 
 ### `2.` Ejecuta los Comandos de Instalación
 
+### 📱 Instalación en **Termux**
+
 <details>
-<summary><strong>📱 Comandos para Termux</strong></summary>
+  <summary><b>🔰 Ver comandos de instalación</b></summary>
 
 ```bash
-# Permite el acceso al almacenamiento
 termux-setup-storage
+```
 
-# Actualiza los paquetes e instala las dependencias
-apt update && apt upgrade -y
-pkg install -y git nodejs ffmpeg imagemagick yarn
+```bash
+apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
+```
 
-# Clona el repositorio y entra en la carpeta
-git clone [https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot](https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot)
-cd Ruby-Hoshino-Bot
+```bash
+git clone https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot && cd Ruby-Hoshino-Bot
+```
 
-# Instala todas las dependencias del proyecto
-yarn install
-npm install
-npm update
+```bash
+yarn install && npm install && npm update
+```
 
-# Inicia el bot
+```bash
 npm start
+```
 
-# Nota: Si el sistema te pregunta (Y/I/N/O/D/Z), escribe "y" y presiona Enter.
-````
+> Cuando veas: (Y/I/N/O/D/Z) [default=N]  
+> Escribe **"y"** y presiona **ENTER**
 
-\</details\>
+</details>
+
+---
 
 \<details\>
 \<summary\>\<strong\>☁️ Comandos para Cloud Shell / VPS\</strong\>\</summary\>
