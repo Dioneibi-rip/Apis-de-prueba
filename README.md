@@ -170,6 +170,23 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 
 ---
 
+### **`USA 27/4 A RUBY EN AKIRAX HOST ☘︎`**
+
+<a
+href="https://home.akirax.net"><img src="https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1748713078525.jpeg" height="125px"></a>
+
+<details>
+ <summary><b> 🍡 VER AKIRAX</b></summary>
+
+* Dashboard : [`Dash`](https://home.akirax.net)
+* Panel : [`Panel`](https://console.akirax.net)
+* Canal de WhatsApp : [`Aqui`](https://whatsapp.com/channel/0029VbBCchVDJ6H6prNYfz2z)
+* Grupo Oficial : [`Aquí`](https://chat.whatsapp.com/JxSZTFJN9J20TnsH7KsKTA)
+
+</details>
+
+---
+
 ## ☁️ **`MÉTODOS DE DESPLIEGUE EN LA NUBE`**
 
 #### 💜 **ACTIVAR EN HEROKU**
