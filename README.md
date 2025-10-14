@@ -206,3 +206,35 @@ termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 > Copyright © 2024 **[Dioneibi-rip](https://github.com/Dioneibi-rip)**.
 
 **`¡GRACIAS POR ELEGIR A LA ESTRELLA!` 💖**
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll("pre > code").forEach(block => {
+    const button = document.createElement("button");
+    button.innerText = "📋 Copiar";
+    button.style = `
+      position: absolute;
+      right: 10px;
+      top: 10px;
+      background: #E91E63;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 13px;
+      transition: background 0.3s ease;
+    `;
+    button.addEventListener("click", async () => {
+      await navigator.clipboard.writeText(block.innerText);
+      button.innerText = "✅ Copiado";
+      setTimeout(() => button.innerText = "📋 Copiar", 2000);
+    });
+    const wrapper = document.createElement("div");
+    wrapper.style = "position: relative; display: inline-block; width: 100%;";
+    block.parentNode.replaceWith(wrapper);
+    wrapper.appendChild(block);
+    wrapper.appendChild(button);
+  });
+});
+</script>
