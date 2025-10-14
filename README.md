@@ -83,6 +83,30 @@ npm start
 
 </details>
 
+---
+
+### ☁️ Instalación en **Cloud Shell**
+
+<details>
+  <summary><b>🚀 Ver pasos para Cloud Shell</b></summary>
+
+```bash
+git clone https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot && cd Ruby-Hoshino-Bot
+```
+
+```bash
+yarn install && npm install
+```
+
+```bash
+npm start
+```
+
+> ✔️ Asegúrate de que tu Cloud Shell tenga Node.js instalado.
+</details>
+
+---
+
 ### 💖 **`ACTIVAR SI SE DETIENE (TERMUX)`**
 
 <details>
