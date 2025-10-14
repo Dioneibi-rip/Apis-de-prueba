@@ -111,7 +111,7 @@ cd && cd Ruby-Hoshino-Bot && npm start
 
 ---
 
-### 🔑 **`OBTENER UN NUEVO CÓDIGO QR`**
+### 🔑 **`OBTENER UN NUEVO CÓDIGO`**
 
 <details>
 <summary><b>🔄 VER COMANDOS</b></summary>
