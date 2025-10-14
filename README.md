@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/u4sYHGA.png" alt="Ruby Hoshino Banner" width="600"/>
+  <img src="https://files.catbox.moe/fvdkhb.jpeg" alt="Ruby Hoshino Banner" width="600"/>
   <h1>🌸 Ruby Hoshino Bot 🌸</h1>
 </div>
 
