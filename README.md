@@ -98,17 +98,13 @@ npm start
 
 ---
 
-### 💖 **`ACTIVAR SI SE DETIENE (TERMUX)`**
+### 💖 **`ACTIVAR SI SE DETUVO TERMUX)`**
 
 <details>
 <summary><b>✨ VER COMANDOS</b></summary>
 
 ```bash
-cd ~/Ruby-Hoshino-Bot
-```
-
-```bash
-npm start
+cd && cd GataBot-MD && npm start
 ```
 
 </details>
