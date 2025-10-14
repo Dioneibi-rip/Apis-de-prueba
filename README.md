@@ -142,6 +142,16 @@ npm start
 termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
 ```
 
+🩷 **`¿hay cambios y quieres actualizar a la bot? `**
+> Note Comandos para actualizar Megumin-Bot de forma automática
+```bash
+grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/David-Chian/Megumin-Bot-MD/master/update.sh | bash
+```
+Para que no pierda su progreso en Megumin, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
+
+> Warning Estos comandos solo funcionan para TERMUX, REPLIT, LINUX
+
+---
 
 ## ☁️ **`MÉTODOS DE DESPLIEGUE EN LA NUBE`**
 
