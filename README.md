@@ -131,12 +131,18 @@ Para que el bot te reconozca como propietario (owner), necesitas añadir tu núm
 
 ## 💬 Comunidad y Soporte
 
-¿Tienes dudas o quieres estar al día con las novedades? ¡Únete a nuestros canales oficiales\!
+¿Tienes dudas o quieres estar al día con las novedades?  
+¡Únete a nuestros canales oficiales! 💫
 
-\<p align="center"\>
-\<a href="https://whatsapp.com/channel/0029VakLbM76mYPPFL0IFI3P"\>\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Canal-Oficial-25D366%3Fstyle%3Dfor-the-badge%26logo%3Dwhatsapp%26logoColor%3Dwhite" alt="Canal Oficial"\>\</a\>
-\<a href="https://chat.whatsapp.com/K2CPrOTksiA36SW6k41yuR"\>\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Comunidad-Global-0088cc%3Fstyle%3Dfor-the-badge%26logo%3Dwhatsapp%26logoColor%3Dwhite" alt="Grupo Global"\>\</a\>
-\</p\>
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VakLbM76mYPPFL0IFI3P">
+    <img src="https://img.shields.io/badge/Canal%20Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Canal Oficial">
+  </a>
+  <a href="https://chat.whatsapp.com/K2CPrOTksiA36SW6k41yuR">
+    <img src="https://img.shields.io/badge/Comunidad%20Global-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Grupo Global">
+  </a>
+</p>
+
 
 -----
 
