@@ -55,7 +55,7 @@
 
 > 🚩 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO: 
 
-### 📱 **`INSTALACIÓN EN TERMUX`**
+## <img src="https://i.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif" alt="Instalacion" width="40" height="40"> Instalación en [termux](https://f-droid.org/repo/com.termux_118.apk)
 
 > ⚠️ **Nota Importante:** La bot no es 100% compatible con Termux y puede presentar fallos o no funcionar correctamente en algunos dispositivos. Se recomienda el uso de Cloud Shell o despliegue en la nube para una mejor experiencia.
 
