@@ -148,40 +148,40 @@ Para que el bot te reconozca como propietario (owner), necesitas añadir tu núm
 
 ## 👑 Creador y Colaboradores
 
-Un agradecimiento especial a todos los que han hecho posible este proyecto.
+Un agradecimiento especial a todos los que han hecho posible este proyecto ✨  
 
-\<table align="center"\>
-\<tr\>
-\<td align="center"\>
-\<a href="https://github.com/Dioneibi-rip"\>
-\<img src="https://github.com/Dioneibi-rip.png" width="150" alt="Dioneibi-rip"/\>
-\<br /\>
-\<sub\>\<b\>Dioneibi-rip (Creador)\</b\>\</sub\>
-\</a\>
-\</td\>
-\</tr\>
-\<tr\>
-\<td align="center" colspan="2"\>
-\<p\>\<b\>Colaboradores Especiales\</b\>\</p\>
-\</td\>
-\</tr\>
-\<tr\>
-\<td align="center"\>
-\<a href="https://github.com/nevi-dev"\>
-\<img src="https://github.com/nevi-dev.png" width="130" alt="nevi-dev"/\>
-\<br /\>
-\<sub\>\<b\>Nevi-dev\</b\>\</sub\>
-\</a\>
-\</td\>
-\<td align="center"\>
-\<a href="https://github.com/Legna-chan"\>
-\<img src="https://github.com/Legna-chan.png" width="130" alt="Legna-chan"/\>
-\<br /\>
-\<sub\>\<b\>Legna-chan\</b\>\</sub\>
-\</a\>
-\</td\>
-\</tr\>
-\</table\>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Dioneibi-rip">
+        <img src="https://github.com/Dioneibi-rip.png" width="150" style="border-radius: 50%;" alt="Dioneibi-rip">
+        <br />
+        <sub><b>Dioneibi-rip (Creador)</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <p><b>💫 Colaboradores Especiales 💫</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/nevi-dev">
+        <img src="https://github.com/nevi-dev.png" width="130" style="border-radius: 50%;" alt="nevi-dev">
+        <br />
+        <sub><b>nevi-dev</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Legna-chan">
+        <img src="https://github.com/Legna-chan.png" width="130" style="border-radius: 50%;" alt="Legna-chan">
+        <br />
+        <sub><b>Legna-chan</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 > [\!IMPORTANT]
 > **Aviso Legal:** Este proyecto es de código abierto y fue creado con fines educativos y de desarrollo. No está afiliado de ninguna manera con WhatsApp o Meta. El uso comercial o con fines maliciosos está estrictamente prohibido.
