@@ -37,9 +37,8 @@
 ## 🩵 **`INSTALACIÓN`**
 
 
-### 📥 Descarga las Herramientas Necesarias
+### 📥 NECESITAS INSTALAR UNAS DE ESTAS HERRAMIENTAS
 
-Para comenzar, necesitarás algunas aplicaciones clave:
 
 <p align="center">
   <a href="https://www.mediafire.com/file/llugt4zgj7g3n3u/com.termux_1020.apk/file"><img src="https://img.shields.io/badge/Descargar-Termux-26C6DA?style=for-the-badge&logo=android" alt="Download Termux"></a>
