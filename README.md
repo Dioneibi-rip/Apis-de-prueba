@@ -43,7 +43,7 @@
 
 -----
 
-## 🚀 **`INSTALACIÓN (*•̀ᴗ•́*)و ̑̑`**
+## 🩵 **`INSTALACIÓN`**
 
 **`🍧 Descarga la Aplicación Necesaria`**
 
