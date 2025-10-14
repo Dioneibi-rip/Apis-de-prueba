@@ -86,27 +86,27 @@ npm start
 
 ---
 
-</details>
-\<summary\>\<strong\>☁️ Comandos para Cloud Shell / VPS\</strong\>\</summary\>
+### ☁️ Instalación en **Cloud Shell**
+
+<details>
+  <summary><b>🚀 Ver pasos para Cloud Shell</b></summary>
 
 ```bash
-# Clona el repositorio y entra en la carpeta
-git clone [https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot](https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot)
-cd Ruby-Hoshino-Bot
-
-# Instala todas las dependencias del proyecto
-yarn install
-npm install
-
-# Inicia el bot
-npm start
-
-# Asegúrate de tener Node.js v18+ instalado.
+git clone https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot && cd Ruby-Hoshino-Bot
 ```
 
-\</details\>
+```bash
+yarn install && npm install
+```
 
------
+```bash
+npm start
+```
+
+> ✔️ Asegúrate de que tu Cloud Shell tenga Node.js instalado.
+</details>
+
+---
 
 ## ⚙️ Configuración Inicial
 
