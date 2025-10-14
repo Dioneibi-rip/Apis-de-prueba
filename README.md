@@ -98,7 +98,7 @@ npm start
 
 ---
 
-### 💖 **`ACTIVAR SI SE DETUVO TERMUX)`**
+### 💖 **`ACTIVAR SI SE DETUVO (TERMUX)`**
 
 <details>
 <summary><b>✨ VER COMANDOS</b></summary>
