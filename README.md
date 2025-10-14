@@ -122,17 +122,19 @@ npm start
 
 </details>
 
+---
+
 ### 🔑 **`OBTENER UN NUEVO CÓDIGO QR`**
 
 <details>
 <summary><b>🔄 VER COMANDOS</b></summary>
 
 ```bash
-cd ~/Ruby-Hoshino-Bot
+cd Ruby-Hoshino-Bot
 ```
 
 ```bash
-rm -rf HoshinoSession
+rm -rf RubySession
 ```
 
 ```bash
