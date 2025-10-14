@@ -104,7 +104,7 @@ npm start
 <summary><b>✨ VER COMANDOS</b></summary>
 
 ```bash
-cd && cd GataBot-MD && npm start
+cd && cd Ruby-Hoshino-Bot && npm start
 ```
 
 </details>
