@@ -136,7 +136,8 @@ npm start
 
 ---
 
-🍟 **`Megumin 24/7 (TERMUX)`**
+### 🪻 **`Ruby 24/7 (TERMUX)`**
+
 ```bash
 > termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
 ```
