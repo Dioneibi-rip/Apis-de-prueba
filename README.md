@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://i.imgur.com/u4sYHGA.png" alt="Ruby Hoshino Banner" width="700"/>
+  <img src="https://files.catbox.moe/fvdkhb.jpeg" alt="Ruby Hoshino Banner" width="700"/>
 </div>
 
 <p align="center">
