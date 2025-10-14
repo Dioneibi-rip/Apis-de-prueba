@@ -1,13 +1,7 @@
-<div align="center">
-  <img src="https://files.catbox.moe/fvdkhb.jpeg" alt="Ruby Hoshino Banner" width="600"/>
-  <h1>🌸 Ruby Hoshino Bot 🌸</h1>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Megumin+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+David+Chian;💥+BOOM!!!;🔥)](https://git.io/typing-svg)
+![Megumin](https://telegra.ph/file/b8170842d84523340c674.jpg)
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F75389&center=true&vCenter=true&width=500&lines=✨+Bienvenido+al+repositorio+oficial+✨;Un+bot+multifuncional+para+WhatsApp;Creado+con+Node.js+y+pasión;¡Gracias+por+estar+aquí!+💖" alt="Typing SVG">
-  </a>
-</p>
+---
 
 <p align="center">
     <a href="https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot"><img src="https://img.shields.io/github/stars/Dioneibi-rip/Ruby-Hoshino-Bot?style=for-the-badge&logo=github&color=E91E63" alt="GitHub stars"></a>
@@ -19,9 +13,6 @@
 <div align="center">
   <img src="https://files.catbox.moe/atnv7f.gif" alt="Ruby Hoshino Bot Preview" width="350"/>
 </div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Megumin+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+David+Chian;💥+BOOM!!!;🔥)](https://git.io/typing-svg)
-![Megumin](https://telegra.ph/file/b8170842d84523340c674.jpg)
 
 ---
 
