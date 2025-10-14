@@ -147,6 +147,9 @@ npm start
 termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
 ```
 
+</details>
+
+
 🩷 **`ACTUALIZACION A LA BOT (TERMUX) `**
 > Comandos para actualizar a Ruby-Bot de forma automática
 ```bash
