@@ -25,6 +25,7 @@
 > Este bot no está hecho por `WhatsApp Inc.` Así que el mal uso del bot podría resultar en la `prohibición` de tu cuenta de `WhatsApp`. (Aunque tu cuenta de WhatsApp solo puede ser desbloqueada una vez).
 > No soy responsable de la prohibición de tu cuenta.
 > Úsalo bajo tu propio riesgo teniendo en cuenta esta advertencia.
+
 > Es una versión **personalizada del trabajo original de [Yuki Wa Bot](https://github.com/The-King-Destroy/YukiBot-MD)**, Modificado por **[Dioneibi-rip](https://github.com/Dioneibi-rip)**.  
 > ¡Úsalo con responsabilidad y diviértete! 💖
 
