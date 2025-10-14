@@ -199,6 +199,5 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 <a
 href="https://github.com/David-Chian"><img src="https://github.com/David-Chian.png" width="130" height="130" alt="David"/></a>
 
-> Copyright (c) 2024 **[David-Chian](https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820)**.
 
 **`¡GRACIAS POR PREFERIRNOS!` 🫧**
