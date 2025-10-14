@@ -50,7 +50,7 @@ href="https://www.mediafire.com/file/llugt4zgj7g3n3u/com.termux_1020.apk/file"><
 > ⚠️ **Nota Importante:** La bot no es 100% compatible con Termux y puede presentar fallos o no funcionar correctamente en algunos dispositivos. Se recomienda el uso de Cloud Shell o despliegue en la nube para una mejor experiencia.
 
 <details>
-<summary><b>✨ 𝗣𝗔𝗦𝗢𝗦 𝗗𝗘 𝗜𝗡𝗦𝗧𝗔𝗟𝗔𝗖𝗜𝗢𝗡</b></summary>
+<summary><b>🪼 PASOS DE INSTALACION</b></summary>
 
 ```bash
 termux-setup-storage
