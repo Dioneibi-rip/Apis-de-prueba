@@ -42,15 +42,16 @@
 [**Únete al Grupo Oficial de Prueba**](https://chat.whatsapp.com/K2CPrOTksiA36SW6k41yuR)
 
 -----
-### 🍧 Descarga la Aplicación Necesaria
+
+## 🚀 **`INSTALACIÓN (*•̀ᴗ•́*)و ̑̑`**
+
+**`🍧 Descarga la Aplicación Necesaria`**
 
 <p align="center">
   <a href="https://www.mediafire.com/file/llugt4zgj7g3n3u/com.termux_1020.apk/file"><img src="https://img.shields.io/badge/Descargar-Termux-26C6DA?style=for-the-badge&logo=android" alt="Download Termux"></a>
   <a href="https://www.mediafire.com/file/bp2l6cci2p30hjv/Cloud+Shell_1.apk/file"><img src="https://img.shields.io/badge/Descargar-Cloud%20Shell-FF7043?style=for-the-badge&logo=google-cloud" alt="Download Cloud Shell"></a>
 </p>
 -----
-
-## 🚀 **`INSTALACIÓN (*•̀ᴗ•́*)و ̑̑`**
 
 > 🚩 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
