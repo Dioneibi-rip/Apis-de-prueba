@@ -26,11 +26,9 @@
 > No soy responsable de la prohibición de tu cuenta.
 > Úsalo bajo tu propio riesgo teniendo en cuenta esta advertencia.
 
-> Es una versión **personalizada del trabajo original de [Yuki Wa Bot](https://github.com/The-King-Destroy/YukiBot-MD)**, Modificado por **[Dioneibi-rip](https://github.com/Dioneibi-rip)**.  
-> ¡Úsalo con responsabilidad y diviértete! 💖
 
-
-> **`Ruby Hoshino - Bot`** es un bot de WhatsApp versátil y lleno de funciones, diseñado para mejorar la experiencia en tus chats y grupos. Desde la gestión automática hasta el entretenimiento, Ruby lo tiene todo.
+> **`Ruby Hoshino - Bot`** Es una versión **personalizada del trabajo original de [Yuki Wa Bot](https://github.com/The-King-Destroy/YukiBot-MD)**, Modificado por **[Dioneibi-rip](https://github.com/Dioneibi-rip)**.  
+ ¡Úsalo con responsabilidad y diviértete! 💖
 
 -----
 
