@@ -91,7 +91,7 @@ npm start
 ## <img src="https://files.catbox.moe/rs536w.gif" alt="Instalacion" width="40" height="40"> Instalación en [Cloud Shell](https://www.mediafire.com/file/bp2l6cci2p30hjv/Cloud+Shell_1.apk/file)
 
 <details>
-  <summary><b>🚀 Ver pasos para Cloud Shell</b></summary>
+  <summary><b>🚀 VER PASOS PARA CLOUD SHELL</b></summary>
 
 ```bash
 git clone https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot && cd Ruby-Hoshino-Bot
