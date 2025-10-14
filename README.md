@@ -170,7 +170,7 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 
 ---
 
-### **`USA 27/4 A RUBY EN AKIRAX HOST ☘︎`**
+### **`USA A RUBY COMPLETAMENTE 24/7 EN AKIRAX 🍉︎`**
 
 <a
 href="https://home.akirax.net"><img src="https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1748713078525.jpeg" height="125px"></a>
