@@ -201,7 +201,7 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 
 ### `🪷 𝘾𝙍𝙀𝘼𝘿𝙊𝙍 𝙊𝙁𝙄𝘾𝙄𝘼𝙇`
 <a
-href="https://github.com/Dioneibi-rip"><img src="https://github.com/Q+riko.png" width="130" height="130" alt="David"/></a>
+href="https://github.com/Dioneibi-rip"><img src="https://github.com/Dioneibi-rip.png" width="130" height="130" alt="David"/></a>
 
 
 **`¡GRACIAS POR PREFERIRNOS!` 🫧**
