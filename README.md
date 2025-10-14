@@ -188,8 +188,8 @@ termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ---
 
 ### `🔥 DESARROLLADORES`
-<a href="https://github.com/David-Chian/Megumin-Bot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=David-Chian/Megumin-Bot-MD" /> 
+<a href="https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=Dioneibi-rip/Ruby-Hoshino-Bot" /> 
 </a>
 
 ### `✨️ AGRADECIMIENTOS`
